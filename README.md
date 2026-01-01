@@ -32,7 +32,4 @@ Based on the BLUESPAWN Audit report, I implemented the following security contro
 * **Firewall Configuration:** Restored active monitoring on all network profiles.
 
 ---
-### 📁 Included Logs
-* `result_blueswpn.txt`: Original EDR detection logs.
-* `CBS.log`: Record of successful system file repairs.
-* `mitigate.txt`: Hardening audit results.
+
